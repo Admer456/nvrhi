@@ -1,3 +1,8 @@
+## Note
+
+This is a fork of NVRHI for my projects, with a few things I don't need removed to keep the submodule size down. If you're looking for the original thing, go here:
+https://github.com/NVIDIAGameWorks/nvrhi
+
 # NVRHI
 
 [![Build Status](https://github.com/NVIDIAGameWorks/nvrhi/actions/workflows/build.yml/badge.svg)](https://github.com/NVIDIAGameWorks/nvrhi/actions/workflows/build.yml)
